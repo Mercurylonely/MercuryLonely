@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/Full_Stack-FFD700?style=for-the-badge&logo=react&logoColor=black" alt="Full Stack Developer" />
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
