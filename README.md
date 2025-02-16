@@ -1,6 +1,6 @@
-# Welcome to My Hacker Portfolio
+# Welcome to My Github
 
-## Full Stack Developer | Machine Learning | Hacking | Cloud | Web Development
+## Full Stack Developer | Machine Learning | Cloud | Web Development
 
 ### Languages:
 <p align="left">
