@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Pras 🙋‍♂️</h1>
-<h3 align="center">Just Life Learner📑🔗 | Code Just For Fun</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Prass
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=CyberSecurity+%7C+ML+Engineer" alt="Typing SVG" />
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
